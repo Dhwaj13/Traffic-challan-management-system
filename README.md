@@ -83,7 +83,7 @@ python traffic_challan.py
 ## 📸 Screenshots  
 
 ### Main Login Page  
-![Login Page](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/images/LOGIN%20PAGE.jpeg?raw=true)  
+![Login Page](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=14%20Commits-,DRIVER%20DASHBOARD.png,-Add%20files%20via?raw=true)  
 
 ### Police Dashboard  
 ![Police Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/images/POLICE%20DASHBOARD.png?raw=true)  
