@@ -52,24 +52,20 @@ python traffic_challan.py
 # Traffic-challan-management-system
 
 📸 Screenshots
-Main Login Page
+### Main Login Page
+![Login Page](login_page.jpeg)
 
-![Login Page](LOGIN PAGE.jpeg)
+### Driver Login
+![Driver Login](driver_login.png)
 
-Driver Login
+### Police Login
+![Police Login](police_login.png)
 
-![Driver Login](DRIVER LOGIN.png)
+### Driver Dashboard
+![Driver Dashboard](driver_dashboard.png)
 
-Police Login
+### Police Dashboard
+![Police Dashboard](police_dashboard.png)
 
-![Police Login](POLICE LOGIN.png)
-
-Driver Dashboard
-
-![Driver Dashboard](DRIVER DASHBOARD.png)
-
-Police Dashboard
-
-![Police Dashboard](POLICE DASHBOARD.png)
-
-Receipt
+### Receipt
+![Receipt](receipt.png)
