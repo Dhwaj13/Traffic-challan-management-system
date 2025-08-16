@@ -1,0 +1,15 @@
+vehicle_number,fine_amount,offence
+KA01AB1234,500,Speeding
+KA05EF4321,300,Parking Violation
+KA01AB1234,500,Speeding
+KA01AB1234,500,Speeding
+KA05EF4321,1000,Reckless Driving
+KA01AA1234,500,Speeding
+KA01BB1234,1500,Speeding
+KA01CC1234,2000,Parking Violation
+KA01DD1234,500,Speeding
+KA01DD1234,1800,Speeding
+KA01DD1234,5000,Speeding
+KA01AB1234,1500,Speeding
+KA01AB1234,2000,Parking Violation
+KA01AB1234,2000,Reckless Driving
