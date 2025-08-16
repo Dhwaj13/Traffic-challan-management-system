@@ -80,24 +80,4 @@ python traffic_challan.py
 ### Driver Dashboard
 ![Driver Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=8%20Commits-,DRIVER%20DASHBOARD.png,-Add%20files%20via)
 
-## 📸 Screenshots  
 
-### Main Login Page  
-![Login Page](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/LOGIN%20PAGE.jpeg?raw=true)  
-
-### Police Login  
-![Police Login](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/POLICE%20LOGIN.png?raw=true)  
-
-### Police Dashboard  
-![Police Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/POLICE%20DASHBOARD.png?raw=true)  
-
-### Receipt  
-![Receipt](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/RECEIPT.png?raw=true)  
-
-### Driver Login  
-![Driver Login](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/DRIVER%20LOGIN.png?raw=true)  
-
-### Driver Dashboard  
-![Driver Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/DRIVER%20DASHBOARD.jpg?raw=true)
-
-![Driver Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/DRIVER%20DASHBOARD.png?raw=true)
