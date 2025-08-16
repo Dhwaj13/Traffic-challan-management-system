@@ -100,4 +100,4 @@ python traffic_challan.py
 ### Driver Dashboard  
 ![Driver Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/DRIVER%20DASHBOARD.jpg?raw=true)
 
-(https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/DRIVER%20DASHBOARD.png?raw=true)
+![Driver Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system/blob/main/DRIVER%20DASHBOARD.png?raw=true)
