@@ -24,13 +24,21 @@ It provides dashboards for both **drivers** and **police officers**, allowing ef
 ## 🗂 Project Structure
 Traffic-challan-management-system/
 ├── traffic_challan.py # Main application script
+
 ├── vehicle_fines.csv # Traffic violation fines
+
 ├── police_credentials.csv # Police login credentials
+
 ├── DRIVER LOGIN.png # Driver login screenshot
+
 ├── POLICE LOGIN.png # Police login screenshot
+
 ├── LOGIN PAGE.jpeg # Main login page screenshot
+
 ├── DRIVER DASHBOARD.png # Driver dashboard screenshot
+
 ├── POLICE DASHBOARD.png # Police dashboard screenshot
+
 └── RECEIPT.png # Sample challan receipt
 ---
 
