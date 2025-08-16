@@ -40,6 +40,7 @@ Traffic-challan-management-system/
 ├── POLICE DASHBOARD.png # Police dashboard screenshot
 
 └── RECEIPT.png # Sample challan receipt
+
 ---
 
 ## ⚙️ Technologies Used
