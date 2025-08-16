@@ -23,23 +23,24 @@ It provides dashboards for both **drivers** and **police officers**, allowing ef
 
 ## 🗂 Project Structure
 Traffic-challan-management-system/
+
 ├── traffic_challan.py # Main application script
 
 ├── vehicle_fines.csv # Traffic violation fines
 
 ├── police_credentials.csv # Police login credentials
 
-├── DRIVER LOGIN.png # Driver login screenshot
-
-├── POLICE LOGIN.png # Police login screenshot
-
 ├── LOGIN PAGE.jpeg # Main login page screenshot
 
-├── DRIVER DASHBOARD.png # Driver dashboard screenshot
+├── POLICE LOGIN.png # Police login screenshot
 
 ├── POLICE DASHBOARD.png # Police dashboard screenshot
 
 └── RECEIPT.png # Sample challan receipt
+
+├── DRIVER LOGIN.png # Driver login screenshot
+
+├── DRIVER DASHBOARD.png # Driver dashboard screenshot
 
 ---
 
@@ -60,21 +61,23 @@ pip install -r requirements.txt
 python traffic_challan.py
 # Traffic-challan-management-system
 
-📸 Screenshots
+ 📸 Screenshots
 ### Main Login Page
-![Login Page](login_page.jpeg)
-
-### Driver Login
-![Driver Login](driver_login.png)
+![Login Page](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=23%20minutes%20ago-,LOGIN%20PAGE.jpeg,-Add%20files%20via)
 
 ### Police Login
-![Police Login](police_login.png)
-
-### Driver Dashboard
-![Driver Dashboard](driver_dashboard.png)
+![Police Login](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=23%20minutes%20ago-,POLICE%20LOGIN.png,-Add%20files%20via)
 
 ### Police Dashboard
-![Police Dashboard](police_dashboard.png)
+![Police Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=23%20minutes%20ago-,POLICE%20DASHBOARD.png,-Add%20files%20via)
 
 ### Receipt
-![Receipt](receipt.png)
+![Receipt](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=6%20minutes%20ago-,RECEIPT.png,-Add%20files%20via)
+
+### Driver Login
+![Driver Login](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=23%20minutes%20ago-,DRIVER%20LOGIN.png,-Add%20files%20via)
+
+### Driver Dashboard
+![Driver Dashboard](https://github.com/Dhwaj13/Traffic-challan-management-system#:~:text=8%20Commits-,DRIVER%20DASHBOARD.png,-Add%20files%20via)
+
+
