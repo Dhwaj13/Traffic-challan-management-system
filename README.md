@@ -50,3 +50,26 @@ cd Traffic-challan-management-system
 pip install -r requirements.txt
 python traffic_challan.py
 # Traffic-challan-management-system
+
+📸 Screenshots
+Main Login Page
+
+![Login Page](LOGIN PAGE.jpeg)
+
+Driver Login
+
+![Driver Login](DRIVER LOGIN.png)
+
+Police Login
+
+![Police Login](POLICE LOGIN.png)
+
+Driver Dashboard
+
+![Driver Dashboard](DRIVER DASHBOARD.png)
+
+Police Dashboard
+
+![Police Dashboard](POLICE DASHBOARD.png)
+
+Receipt
